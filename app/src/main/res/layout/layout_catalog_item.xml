@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/card_margin">
+
+        <GridLayout
+            android:layout_width="360dp"
+            android:layout_height="match_parent"
+            android:columnCount="2"
+            android:rowCount="5">
+
+            <ImageView
+                android:id="@+id/img_thumb"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_rowSpan="5"
+                android:src="@drawable/macdo"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:id="@+id/txt_title"
+                android:layout_width="260dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/card_item_margin"
+                android:layout_marginEnd="@dimen/card_item_margin"
+                android:layout_column="1"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                tools:text="The Big Burger"/>
+
+            <TextView
+                android:id="@+id/txt_detail"
+                android:layout_width="260dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/card_item_margin"
+                android:layout_marginEnd="@dimen/card_item_margin"
+                android:layout_row="2"
+                android:layout_column="1"
+                android:layout_rowSpan="2"
+                tools:text="Un classique mais tellement bon :)" />
+
+            <TextView
+                android:id="@+id/txt_price"
+                android:layout_width="260dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/card_item_margin"
+                android:layout_marginEnd="@dimen/card_item_margin"
+                android:layout_row="1"
+                android:layout_column="1"
+                android:textColor="@color/colorPrimary"
+                tools:text="Prix : 15€" />
+
+        </GridLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

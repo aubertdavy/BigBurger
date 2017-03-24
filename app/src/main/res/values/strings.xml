@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Big Burger</string>
+    <string name="button_yes">Oui</string>
+    <string name="button_no">Non</string>
+    <string name="basket_view">Mon Panier</string>
+    <string name="error_loading_title">Erreur</string>
+    <string name="burger_snack">ajouté à votre panier</string>
+    <string name="snackbar_text">Pour votre santé, faites du sport !!</string>
+    <string name="error_loading_body">Une erreur est survenue pendant la récupération du catalogue.\n\nSouhaitez-vous recommencer ?</string>
+    <string name="catalog_api">https://bigburger.useradgents.com/catalog</string>
+</resources>

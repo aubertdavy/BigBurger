@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a44b21d00d3679186a4e8532853d8d290a9a21a">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ff96eca1d0f154fb6f788ee186b9bb1fe929cfef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_96a38b1c24cc6d4d44211ffa4988a892cab8927f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AUBERT\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_077d5c1bc480f6da66a466a75495d45f5d173a08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AUBERT\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_080d36e34b1d6030ae3e68f653aa7b31e1802ec1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_5ee7922af412285eb3c403feeebb3ada357dc6a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_02fd6ca810aeeb85f8b1c068deb3ebff72521674\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_7a78f23a0f2ea5e32430ad1abbed8fca562e6e08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_c1b1b67a506566b04e0a82cc3a294bd08562b5f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_cf4944ca5bd6f14f5fbd42377d76339f61146ebf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_b1f61e1c1fcf04e39f9a47f966cb221e039da638\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_b701396ab59fb85853f50a04a85c296ec42a5f7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_cbd95943ccf1816c0949bd445fc4c53e2ea10270\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.0_6302d3ebc74bf9da974f257e1f051116d83420af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_77791135c708dc00f47cb4504b4cbd28df72cd1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_3b35ab988f174bfe8fc8bac8e1d73a02a87e8724\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.5.1_a42f3a85177a50df6cc390af5f7d6254cfef1f58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_233b7d3aa3bb1ec7c08ec1576ac740514d9d3732\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AUBERT\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.5.1_050e8509020dc613d21de147ab3cfb54bf3c6d1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_7a1e2de362c8edf098445002b3a5a118691a29d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programmes\useradgents\BigBurger\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcb9b2832f81613e433553a62c3c5e9f121706b7">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4798104da422b45ca3d4d37b78e3e812c40177e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AUBERT\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\activeandroid-3.1.0-SNAPSHOT_cff3aa5874388d7a47d768ec4a93842bff2c6808\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AUBERT\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\Programmes\useradgents\BigBurger\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_2cfed918bed8d75702d4af10ceb2f41e6e734f2f\classes.dex" />
+    </item>
+
+</items>
